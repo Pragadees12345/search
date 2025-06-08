@@ -1,0 +1,2 @@
+public String getAdhocBeneficiaryName() { return adhocBeneficiaryName; }
+    public void setAdhocBeneficiaryName(String adhocBeneficiaryName) { this.adhocBeneficiaryName = adhocBeneficiaryName; }
